@@ -1,0 +1,23 @@
+[0.559s] Invoking command in '/home/haritha/ros2_humble_ws/build/mobile_robot_description': PYTHONPATH=/home/haritha/ros2_humble_ws/build/mobile_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/haritha/ros2_humble_ws/install/mobile_robot_description/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/haritha/ros2_humble_ws/build/mobile_robot_description/build
+[0.785s] running develop
+[0.888s] Removing /home/haritha/ros2_humble_ws/install/mobile_robot_description/lib/python3.10/site-packages/mobile-robot-description.egg-link (link to .)
+[0.914s] Invoked command in '/home/haritha/ros2_humble_ws/build/mobile_robot_description' returned '0': PYTHONPATH=/home/haritha/ros2_humble_ws/build/mobile_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/haritha/ros2_humble_ws/install/mobile_robot_description/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/haritha/ros2_humble_ws/build/mobile_robot_description/build
+[0.916s] Invoking command in '/home/haritha/ros2_humble_ws/src/mobile_robot_description': PYTHONPATH=/home/haritha/ros2_humble_ws/build/mobile_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/haritha/ros2_humble_ws/install/mobile_robot_description/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mobile_robot_description build --build-base /home/haritha/ros2_humble_ws/build/mobile_robot_description/build install --record /home/haritha/ros2_humble_ws/build/mobile_robot_description/install.log --single-version-externally-managed install_data --force
+[1.118s] running egg_info
+[1.118s] writing ../../build/mobile_robot_description/mobile_robot_description.egg-info/PKG-INFO
+[1.118s] writing dependency_links to ../../build/mobile_robot_description/mobile_robot_description.egg-info/dependency_links.txt
+[1.119s] writing requirements to ../../build/mobile_robot_description/mobile_robot_description.egg-info/requires.txt
+[1.119s] writing top-level names to ../../build/mobile_robot_description/mobile_robot_description.egg-info/top_level.txt
+[1.119s] reading manifest file '../../build/mobile_robot_description/mobile_robot_description.egg-info/SOURCES.txt'
+[1.120s] writing manifest file '../../build/mobile_robot_description/mobile_robot_description.egg-info/SOURCES.txt'
+[1.120s] running build
+[1.120s] running install
+[1.121s] running install_data
+[1.121s] copying package.xml -> /home/haritha/ros2_humble_ws/install/mobile_robot_description/share/mobile_robot_description
+[1.121s] copying launch/display.launch.py -> /home/haritha/ros2_humble_ws/install/mobile_robot_description/share/mobile_robot_description/launch
+[1.121s] copying urdf/mobile_base.urdf.xacro -> /home/haritha/ros2_humble_ws/install/mobile_robot_description/share/mobile_robot_description/urdf
+[1.121s] running install_egg_info
+[1.123s] Copying ../../build/mobile_robot_description/mobile_robot_description.egg-info to /home/haritha/ros2_humble_ws/install/mobile_robot_description/lib/python3.10/site-packages/mobile_robot_description-0.0.1-py3.10.egg-info
+[1.124s] running install_scripts
+[1.147s] writing list of installed files to '/home/haritha/ros2_humble_ws/build/mobile_robot_description/install.log'
+[1.171s] Invoked command in '/home/haritha/ros2_humble_ws/src/mobile_robot_description' returned '0': PYTHONPATH=/home/haritha/ros2_humble_ws/build/mobile_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/haritha/ros2_humble_ws/install/mobile_robot_description/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mobile_robot_description build --build-base /home/haritha/ros2_humble_ws/build/mobile_robot_description/build install --record /home/haritha/ros2_humble_ws/build/mobile_robot_description/install.log --single-version-externally-managed install_data --force

@@ -1,0 +1,17 @@
+[0.583s] Invoking command in '/home/haritha/ros2_humble_ws/src/mobile_robot_description': PYTHONPATH=/home/haritha/ros2_humble_ws/build/mobile_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/haritha/ros2_humble_ws/install/mobile_robot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mobile_robot_description build --build-base /home/haritha/ros2_humble_ws/build/mobile_robot_description/build install --record /home/haritha/ros2_humble_ws/build/mobile_robot_description/install.log --single-version-externally-managed install_data
+[0.789s] running egg_info
+[0.789s] writing ../../build/mobile_robot_description/mobile_robot_description.egg-info/PKG-INFO
+[0.789s] writing dependency_links to ../../build/mobile_robot_description/mobile_robot_description.egg-info/dependency_links.txt
+[0.790s] writing requirements to ../../build/mobile_robot_description/mobile_robot_description.egg-info/requires.txt
+[0.790s] writing top-level names to ../../build/mobile_robot_description/mobile_robot_description.egg-info/top_level.txt
+[0.790s] reading manifest file '../../build/mobile_robot_description/mobile_robot_description.egg-info/SOURCES.txt'
+[0.791s] writing manifest file '../../build/mobile_robot_description/mobile_robot_description.egg-info/SOURCES.txt'
+[0.791s] running build
+[0.792s] running install
+[0.792s] running install_data
+[0.792s] running install_egg_info
+[0.794s] removing '/home/haritha/ros2_humble_ws/install/mobile_robot_description/lib/python3.10/site-packages/mobile_robot_description-0.0.1-py3.10.egg-info' (and everything under it)
+[0.794s] Copying ../../build/mobile_robot_description/mobile_robot_description.egg-info to /home/haritha/ros2_humble_ws/install/mobile_robot_description/lib/python3.10/site-packages/mobile_robot_description-0.0.1-py3.10.egg-info
+[0.795s] running install_scripts
+[0.816s] writing list of installed files to '/home/haritha/ros2_humble_ws/build/mobile_robot_description/install.log'
+[0.843s] Invoked command in '/home/haritha/ros2_humble_ws/src/mobile_robot_description' returned '0': PYTHONPATH=/home/haritha/ros2_humble_ws/build/mobile_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/haritha/ros2_humble_ws/install/mobile_robot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mobile_robot_description build --build-base /home/haritha/ros2_humble_ws/build/mobile_robot_description/build install --record /home/haritha/ros2_humble_ws/build/mobile_robot_description/install.log --single-version-externally-managed install_data

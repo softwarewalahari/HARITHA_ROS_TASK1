@@ -1,0 +1,25 @@
+[1.060s] Invoking command in '/home/haritha/ros2_humble_ws/build/mobile_robot_description': PYTHONPATH=/home/haritha/ros2_humble_ws/build/mobile_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/haritha/ros2_humble_ws/install/mobile_robot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/haritha/ros2_humble_ws/build/mobile_robot_description/build
+[1.435s] running develop
+[1.685s] Removing /home/haritha/ros2_humble_ws/install/mobile_robot_description/lib/python3.10/site-packages/mobile-robot-description.egg-link (link to .)
+[1.715s] Invoked command in '/home/haritha/ros2_humble_ws/build/mobile_robot_description' returned '0': PYTHONPATH=/home/haritha/ros2_humble_ws/build/mobile_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/haritha/ros2_humble_ws/install/mobile_robot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/haritha/ros2_humble_ws/build/mobile_robot_description/build
+[1.718s] Invoking command in '/home/haritha/ros2_humble_ws/src/mobile_robot_description': PYTHONPATH=/home/haritha/ros2_humble_ws/build/mobile_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/haritha/ros2_humble_ws/install/mobile_robot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mobile_robot_description build --build-base /home/haritha/ros2_humble_ws/build/mobile_robot_description/build install --record /home/haritha/ros2_humble_ws/build/mobile_robot_description/install.log --single-version-externally-managed install_data --force
+[2.072s] running egg_info
+[2.073s] writing ../../build/mobile_robot_description/mobile_robot_description.egg-info/PKG-INFO
+[2.074s] writing dependency_links to ../../build/mobile_robot_description/mobile_robot_description.egg-info/dependency_links.txt
+[2.074s] writing requirements to ../../build/mobile_robot_description/mobile_robot_description.egg-info/requires.txt
+[2.075s] writing top-level names to ../../build/mobile_robot_description/mobile_robot_description.egg-info/top_level.txt
+[2.076s] reading manifest file '../../build/mobile_robot_description/mobile_robot_description.egg-info/SOURCES.txt'
+[2.078s] writing manifest file '../../build/mobile_robot_description/mobile_robot_description.egg-info/SOURCES.txt'
+[2.078s] running build
+[2.078s] running install
+[2.078s] running install_data
+[2.079s] copying package.xml -> /home/haritha/ros2_humble_ws/install/mobile_robot_description/share/mobile_robot_description
+[2.079s] copying launch/spawn_robot.launch.py -> /home/haritha/ros2_humble_ws/install/mobile_robot_description/share/mobile_robot_description/launch
+[2.079s] copying launch/display.launch.py -> /home/haritha/ros2_humble_ws/install/mobile_robot_description/share/mobile_robot_description/launch
+[2.079s] copying launch/gazebo.launch.py -> /home/haritha/ros2_humble_ws/install/mobile_robot_description/share/mobile_robot_description/launch
+[2.079s] copying urdf/mobile_base.urdf.xacro -> /home/haritha/ros2_humble_ws/install/mobile_robot_description/share/mobile_robot_description/urdf
+[2.080s] running install_egg_info
+[2.083s] Copying ../../build/mobile_robot_description/mobile_robot_description.egg-info to /home/haritha/ros2_humble_ws/install/mobile_robot_description/lib/python3.10/site-packages/mobile_robot_description-0.0.1-py3.10.egg-info
+[2.084s] running install_scripts
+[2.110s] writing list of installed files to '/home/haritha/ros2_humble_ws/build/mobile_robot_description/install.log'
+[2.139s] Invoked command in '/home/haritha/ros2_humble_ws/src/mobile_robot_description' returned '0': PYTHONPATH=/home/haritha/ros2_humble_ws/build/mobile_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/haritha/ros2_humble_ws/install/mobile_robot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mobile_robot_description build --build-base /home/haritha/ros2_humble_ws/build/mobile_robot_description/build install --record /home/haritha/ros2_humble_ws/build/mobile_robot_description/install.log --single-version-externally-managed install_data --force

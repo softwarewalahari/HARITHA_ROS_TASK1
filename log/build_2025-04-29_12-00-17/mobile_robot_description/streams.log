@@ -1,0 +1,18 @@
+[0.818s] Invoking command in '/home/haritha/ros2_humble_ws/build/mobile_robot_description': PYTHONPATH=/home/haritha/ros2_humble_ws/build/mobile_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/haritha/ros2_humble_ws/install/mobile_robot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/haritha/ros2_humble_ws/build/mobile_robot_description/build --no-deps symlink_data --force
+[1.161s] running develop
+[1.367s] running egg_info
+[1.367s] writing mobile_robot_description.egg-info/PKG-INFO
+[1.368s] writing dependency_links to mobile_robot_description.egg-info/dependency_links.txt
+[1.368s] writing requirements to mobile_robot_description.egg-info/requires.txt
+[1.368s] writing top-level names to mobile_robot_description.egg-info/top_level.txt
+[1.369s] reading manifest file 'mobile_robot_description.egg-info/SOURCES.txt'
+[1.371s] writing manifest file 'mobile_robot_description.egg-info/SOURCES.txt'
+[1.373s] running build_ext
+[1.374s] Creating /home/haritha/ros2_humble_ws/install/mobile_robot_description/lib/python3.10/site-packages/mobile-robot-description.egg-link (link to .)
+[1.375s] 
+[1.375s] Installed /home/haritha/ros2_humble_ws/build/mobile_robot_description
+[1.375s] running symlink_data
+[1.375s] symbolically linking /home/haritha/ros2_humble_ws/build/mobile_robot_description/package.xml -> /home/haritha/ros2_humble_ws/install/mobile_robot_description/share/mobile_robot_description
+[1.375s] symbolically linking /home/haritha/ros2_humble_ws/build/mobile_robot_description/launch/display.launch.py -> /home/haritha/ros2_humble_ws/install/mobile_robot_description/share/mobile_robot_description/launch
+[1.375s] symbolically linking /home/haritha/ros2_humble_ws/build/mobile_robot_description/urdf/mobile_base.urdf.xacro -> /home/haritha/ros2_humble_ws/install/mobile_robot_description/share/mobile_robot_description/urdf
+[1.406s] Invoked command in '/home/haritha/ros2_humble_ws/build/mobile_robot_description' returned '0': PYTHONPATH=/home/haritha/ros2_humble_ws/build/mobile_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/haritha/ros2_humble_ws/install/mobile_robot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/haritha/ros2_humble_ws/build/mobile_robot_description/build --no-deps symlink_data --force

@@ -1,0 +1,15 @@
+[1.053s] Invoking command in '/home/haritha/ros2_humble_ws/build/mobile_robot_description': PYTHONPATH=/home/haritha/ros2_humble_ws/build/mobile_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/haritha/ros2_humble_ws/install/mobile_robot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/haritha/ros2_humble_ws/build/mobile_robot_description/build --no-deps symlink_data
+[1.492s] running develop
+[1.723s] running egg_info
+[1.723s] writing mobile_robot_description.egg-info/PKG-INFO
+[1.724s] writing dependency_links to mobile_robot_description.egg-info/dependency_links.txt
+[1.724s] writing requirements to mobile_robot_description.egg-info/requires.txt
+[1.725s] writing top-level names to mobile_robot_description.egg-info/top_level.txt
+[1.727s] reading manifest file 'mobile_robot_description.egg-info/SOURCES.txt'
+[1.728s] writing manifest file 'mobile_robot_description.egg-info/SOURCES.txt'
+[1.730s] running build_ext
+[1.732s] Creating /home/haritha/ros2_humble_ws/install/mobile_robot_description/lib/python3.10/site-packages/mobile-robot-description.egg-link (link to .)
+[1.734s] 
+[1.734s] Installed /home/haritha/ros2_humble_ws/build/mobile_robot_description
+[1.734s] running symlink_data
+[1.769s] Invoked command in '/home/haritha/ros2_humble_ws/build/mobile_robot_description' returned '0': PYTHONPATH=/home/haritha/ros2_humble_ws/build/mobile_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/haritha/ros2_humble_ws/install/mobile_robot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/haritha/ros2_humble_ws/build/mobile_robot_description/build --no-deps symlink_data
